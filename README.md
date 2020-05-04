@@ -1,8 +1,7 @@
 ## movie-zip (压缩版代码)
 #### 一个基于VueCli的小项目，用到了Vue,Vuex,VueRouter,Element-UI,Better-scroll,swiper,axios等技术；
 ***
-#### 项目预览:http://123.57.46.110/miaomiao/
-![预览二维码](E:/新下载/Saved Pictures/movie.png)
+#### 项目预览:![movie.png](https://i.loli.net/2020/05/04/JvbXYIicGT9ulE6.png)
 #### 项目本地运行步骤:
 - 点击 Clean and Download 按钮
 ```
