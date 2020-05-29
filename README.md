@@ -1,5 +1,5 @@
 ## movie-zip (压缩版代码)
-#### 一个基于VueCli的小项目，用到了Vue,Vuex,VueRouter,Element-UI,Better-scroll,swiper,axios等技术；
+##### 一个基于 Vue-CLI3.0x 的移动端小项目，项目中用到了Vue,Vuex,VueRouter,Element-UI,Better-scroll,swiper,axios等技术；主要有正在热映，即将上映，电影详情，影院详情，城市定位，影片搜索，用户登录等功能页面。制作过程中让我对基于 Vue-CLI3.0x开发Vue单页面应用有了更新的认识，也加深了对Vue全家桶，Axios和Better-Scroll / swiper 中移动端滑动组件的应用等。
 #### 项目预览:  
 ![movie.png](https://i.loli.net/2020/05/04/JvbXYIicGT9ulE6.png)
 ***
